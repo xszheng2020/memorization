@@ -12,7 +12,7 @@ jupyter notebook --notebook-dir=/opt/codes --ip=0.0.0.0 --no-browser --allow-roo
 
 ## Prepare the datasets
 
-Download the **CIFAR-10**, [SST](https://nlp.stanford.edu/sentiment/index.html), [SNLI](https://nlp.stanford.edu/projects/snli/snli_1.0.zip), [Yahoo! Answer](https://drive.google.com/uc?export=download&id=0Bz8a_Dbh9Qhbd2JNdDBsQUdocVU) datasets from web and then process them using the 00_EDA.ipynb
+Download the **CIFAR-10**, [SNLI](https://nlp.stanford.edu/projects/snli/snli_1.0.zip), [SST](https://nlp.stanford.edu/sentiment/index.html), [Yahoo! Answer](https://drive.google.com/uc?export=download&id=0Bz8a_Dbh9Qhbd2JNdDBsQUdocVU) datasets from web and then process them using the 00_EDA.ipynb
 
 ## Run the experiments
 
