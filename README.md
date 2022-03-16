@@ -25,7 +25,7 @@ bash ./scripts/run_random_<X>.sh # train the model while dropping X% instances r
 bash ./scripts/eval_attr_mem.sh # eval the memorization attributions
 bash ./scripts/eval_attr_random.sh # eval the random attributions
 ```
-## Analyze the results and Visualize
+## Analyze the results
 How to analyze the results and plot the most figures in the paper can be found in the jupyter notebooks.
 
 ## Links
