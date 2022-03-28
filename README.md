@@ -29,6 +29,6 @@ bash ./scripts/eval_attr_random.sh # eval the random attributions
 How to analyze the results and plot the most figures in the paper can be found in the jupyter notebooks.
 
 ## Links
-- Paper and data: https://drive.google.com/drive/folders/1e_IkInLSYlVpiAF36CrAnhV0Ah01Cc0H?usp=sharing
+- Paper: https://arxiv.org/abs/2203.12171
 - Related projects:
   - fast-influence-functions: https://github.com/salesforce/fast-influence-functions
