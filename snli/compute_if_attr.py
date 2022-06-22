@@ -230,7 +230,7 @@ if __name__ == '__main__':
     emb=None
 
     def hook_func_1(module, input_, output):
-         my_hook_1['out'] = output
+        my_hook_1['out'] = output
     
     def hook_func_2(module, input_, output):
         output.data = emb.data
